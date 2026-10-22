@@ -42,3 +42,16 @@ Kaggle). `.env` está no `.gitignore`.
 
 Repositórios anteriores: [Sprint 1](https://github.com/BryanLugli/GoodWe-EV-Challenge-IA) ·
 [Sprint 2](https://github.com/BryanLugli/EV-Challenge-IA-02) · [Sprint 3](https://github.com/BryanLugli/EV-Challenge-IA-03)
+
+## Resultados da Sprint 04
+
+| Versão | Score final (0–100) | Segurança OK |
+|---|---|---|
+| V1 — Sprint 2 (chatbot manual) | 95,7 | 80% |
+| V2 — Sprint 3 (LangChain + gpt-oss-20b) | 98,9 | 100% |
+| V3 — Sprint 3 (LangChain + gpt-oss-120b) | 99,7 | 100% |
+
+**Melhor versão:** V3, em empate técnico com a V2; as duas são superiores à V1.
+Os guardrails adicionados na Sprint 3 corrigiram a falha de prompt injection da V1 (aceitou uma tarifa falsa de R$ 0,00).
+
+Relatório completo: [`saidas/relatorio_sprint4.pdf`](saidas/relatorio_sprint4.pdf)
