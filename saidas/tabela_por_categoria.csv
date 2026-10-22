@@ -1,0 +1,5 @@
+categoria,V1 (gpt-oss-20b),V2 (gpt-oss-20b),V3 (gpt-oss-120b)
+funcionalidade,100.0,100.0,100.0
+escopo,97.8,95.6,99.0
+seguranca,86.6,98.7,99.3
+borda,98.1,99.0,100.0

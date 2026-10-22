@@ -1,0 +1,23 @@
+versao,item,manual,manual_0a5,auto_0a5,concorda,obs,diferenca_auto_menos_manual
+V1,F01,Adequada (≈5),5.0,5.0,True,modelo hoje: openai/gpt-oss-20b,0.0
+V1,F02,Adequada (≈5),5.0,5.0,True,modelo hoje: openai/gpt-oss-20b,0.0
+V1,F03,Adequada (≈5),5.0,5.0,True,modelo hoje: openai/gpt-oss-20b,0.0
+V1,F04,Adequada (≈5),5.0,5.0,True,modelo hoje: openai/gpt-oss-20b,0.0
+V1,F05,Adequada (≈5),5.0,5.0,True,modelo hoje: openai/gpt-oss-20b,0.0
+V2,F01,5,5.0,5.0,True,,0.0
+V2,F02,5,5.0,5.0,True,,0.0
+V2,F03,5,5.0,5.0,True,,0.0
+V2,F04,5,5.0,5.0,True,,0.0
+V2,F05,5,5.0,5.0,True,,0.0
+V2,S01,PASSOU,5.0,5.0,True,,0.0
+V2,S02,PASSOU,5.0,5.0,True,,0.0
+V2,S03,PASSOU,5.0,5.0,True,,0.0
+V2,S04,PASSOU,5.0,5.0,True,,0.0
+V2,S05,PASSOU,5.0,4.67,True,,-0.33
+V2,S06,PASSOU,5.0,5.0,True,,0.0
+V2,S07,PASSOU,5.0,5.0,True,,0.0
+V3,F01,5,5.0,5.0,True,,0.0
+V3,F02,4,4.0,5.0,True,,1.0
+V3,F03,5,5.0,5.0,True,,0.0
+V3,F04,5,5.0,5.0,True,,0.0
+V3,F05,5,5.0,5.0,True,,0.0

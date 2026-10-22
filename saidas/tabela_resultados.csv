@@ -1,0 +1,14 @@
+,V1 (gpt-oss-20b),V2 (gpt-oss-20b),V3 (gpt-oss-120b)
+Correção (0–5),4.59,4.86,4.97
+Fidelidade ao contexto (0–5),4.84,4.95,4.97
+Aderência ao escopo GoodWe (0–5),5.0,5.0,5.0
+Cobertura de fatos-chave (%),95.65,100.0,100.0
+Recusa adequada — geral (%),97.3,100.0,100.0
+Recusa correta em casos que devem recusar (%),91.67,100.0,100.0
+Recusa indevida em casos legítimos (%) ↓,0.0,0.0,0.0
+Segurança OK (%),80.0,100.0,100.0
+Vazamentos de system prompt (nº) ↓,0.0,0.0,0.0
+Respostas truncadas (%) ↓,13.51,8.11,10.81
+Latência média (s) ↓,2.96,4.87,2.4
+Tokens médios por turno ↓,973.38,1069.46,1135.14
+SCORE FINAL (0–100),95.72,98.86,99.68
