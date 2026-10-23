@@ -55,3 +55,12 @@ Repositórios anteriores: [Sprint 1](https://github.com/BryanLugli/GoodWe-EV-Cha
 Os guardrails adicionados na Sprint 3 corrigiram a falha de prompt injection da V1 (aceitou uma tarifa falsa de R$ 0,00).
 
 Relatório completo: [`saidas/relatorio_sprint4.pdf`](saidas/relatorio_sprint4.pdf)
+
+## Divisão de trabalho (Sprint 04)
+
+- *Bryan Lugli (RM 571350):* integração das versões V1–V3 no pipeline e execução no Kaggle
+- *Beckman Rodrigues Lugli (RM 573442):* golden dataset (perguntas, gabaritos e casos de segurança)
+- *Guilherme Xavier (RM 573053):* rubrica do LLM juiz, comparação com a avaliação manual e relatório
+
+Uso de IA generativa: o Claude (Anthropic) foi usado como apoio para estruturar o código e revisar o dataset; execução, conferência e análise dos resultados foram feitas pelo grupo.
+
